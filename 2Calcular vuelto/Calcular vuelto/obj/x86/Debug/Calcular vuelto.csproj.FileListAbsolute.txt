@@ -1,0 +1,7 @@
+C:\POO\Calcular vuelto\Calcular vuelto\bin\Debug\Calcular vuelto.exe
+C:\POO\Calcular vuelto\Calcular vuelto\bin\Debug\Calcular vuelto.pdb
+C:\POO\Calcular vuelto\Calcular vuelto\obj\x86\Debug\Calcular_vuelto.Form1.resources
+C:\POO\Calcular vuelto\Calcular vuelto\obj\x86\Debug\Calcular_vuelto.Properties.Resources.resources
+C:\POO\Calcular vuelto\Calcular vuelto\obj\x86\Debug\Calcular vuelto.csproj.GenerateResource.Cache
+C:\POO\Calcular vuelto\Calcular vuelto\obj\x86\Debug\Calcular vuelto.exe
+C:\POO\Calcular vuelto\Calcular vuelto\obj\x86\Debug\Calcular vuelto.pdb

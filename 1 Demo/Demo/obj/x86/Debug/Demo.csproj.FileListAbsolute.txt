@@ -1,0 +1,9 @@
+C:\POO\Demo\Demo\bin\Debug\Demo.exe
+C:\POO\Demo\Demo\bin\Debug\Demo.pdb
+C:\POO\Demo\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\POO\Demo\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\POO\Demo\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+C:\POO\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\POO\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\POO\Demo3\Demo\obj\x86\Debug\Demo.exe
+C:\POO\Demo3\Demo\obj\x86\Debug\Demo.pdb
